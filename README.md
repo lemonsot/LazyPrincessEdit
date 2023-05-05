@@ -47,7 +47,7 @@ Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up w
 * `LAZY_RENAMERS`: ID of the users to which you want to give file renaming authentication. Separate multiple ids by space.
 
 
-* Check [info.py](https://github.com/LazyDeveloperr/LazyPrincess/blob/master/info.py) for more
+* Check [info.py](https://github.com/lemonsot/LazyPrincessEdit/blob/artificial_inteligence_v7.5/info.py) for more
 
 
 ## Deploy
